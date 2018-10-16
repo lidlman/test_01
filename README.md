@@ -1,20 +1,6 @@
 # Initial page
 
-## Getting Super Powers
+Salut a tous
 
-Becoming a super hero is a fairly straight forward process:
-
-```
-$ give me super-powers
-```
-
-
- ℹ️ Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-
-
-Once you're strong enough, save the world:
-
-```
-// Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
+* [Introduction](README.md)
+* [Michel Mumu](Michel_Mumu.md)

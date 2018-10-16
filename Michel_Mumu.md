@@ -6,7 +6,7 @@ I'm happy
 
     ℹ️ Attention blablabla
 
-Du Texte *simple*
+Du Texte **simple**
 
 ```bash
 $ sudo apt install && sudo apt upgrade
